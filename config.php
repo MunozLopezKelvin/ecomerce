@@ -3,7 +3,7 @@ date_default_timezone_set('America/Lima');
 session_start();
 
 // define('RUTA', 'http://localhost/ecomerce-main/');
-define('RUTA', 'ecommerce-nube.azurewebsites.net/');
+define('RUTA', 'https://ecommerce-nube.azurewebsites.net/');
 
 define('DB_HOST', 'ecomerce.mysql.database.azure.com');
 define('DB_USER', 'kpaulml');
